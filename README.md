@@ -3,7 +3,7 @@ Ce sont ceux qui étaient le plus récurrent en ctf, le programme évoluera dans
 
 Le script utilise par défaut la wordlist rockyou.txt mais il est possible de le modifier à votre choix. 
 
-Pour l'utiliser ( Linux ) :
+Pour l'utiliser ( Linux ) : <br />
 git clone https://github.com/TimFlp/HydraHelperCtf/ <br />
 cd HydraHelperCtf <br />
 bash hydra.sh
